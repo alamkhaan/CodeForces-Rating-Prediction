@@ -1,5 +1,5 @@
 <h1>Project Title</h1>
-Codeforces Rating Prediction
+Codeforces Rating Prediction using Machine Learning
 
 <h2>Description</h2>
 Codeforces is the best online judge for competitive programming. Competitive programmers

@@ -17,13 +17,12 @@ Libraries: pandas, sklearn, matplotlib
 
 
 <h3>Installing</h3>
-You can download the project from https://github.com/alamkhaan/CodeForces-Rating-prediction
-To install the libraries use these commands in python terminal:
-```
-pip install pandas
-pip install sklearn
-pip install matpotlib
-```
+You can download the project from https://github.com/alamkhaan/CodeForces-Rating-prediction</br>
+To install the libraries use these commands in python terminal:</br></br>
+
+pip install pandas</br>
+pip install sklearn</br>
+pip install matpotlib</br>
 
 
 <h3>Executing program</h3>

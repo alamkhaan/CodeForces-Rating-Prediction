@@ -39,7 +39,7 @@ Don't forget to include the libraries.
 See report and dataset for more information.
 
 
-<h2>Authors<h2>
-Alam Khan
-Email: <a href="alamkhaan1997@gmail.com">alamkhaan1997@gmail.com</a>
-Facebook: <a href="facebook.com/alamkhaan1997">facebook.com/alamkhaan1997</a>
+<h2>Authors</h2>
+Alam Khan</br>
+Email: <a href="https://www.mail.google.com/mail/u/0/#sent?compose=CllgCJqbzgflTlvkVlxGNXPrHWZBjCwFRVCXmlkZPJNSQZtBZVMjBvZJJjFRQrZNjgLSmBmtVKg" target="_blank">alamkhaan1997@gmail.com</a></br>
+Facebook: <a href="https://www.facebook.com/alamkhaan1997" target="_blank">facebook.com/alamkhaan1997</a>

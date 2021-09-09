@@ -31,7 +31,7 @@ Just run the python file.
 
 
 <h2>Dataset</h2>
-Dataset is collected from <a href="codeforces.com" target="_blank">codeforces.com</a>
+Dataset is collected from <a href="https://www.codeforces.com" target="_blank">codeforces.com</a>
 
 
 <h2>Help</h2>

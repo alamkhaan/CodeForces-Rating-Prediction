@@ -1,4 +1,4 @@
-#Project Title
+<h3>Project Title</h3>
 Codeforces Rating Prediction
 
 ##Description

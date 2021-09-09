@@ -41,5 +41,5 @@ See report and dataset for more information.
 
 <h2>Authors<h2>
 Alam Khan
-Email: alamkhaan1997@gmail.com
-Facebook: facebook.com/alamkhaan1997
+Email: <a href="alamkhaan1997@gmail.com">alamkhaan1997@gmail.com</a>
+Facebook: <a href="facebook.com/alamkhaan1997">facebook.com/alamkhaan1997</a>
